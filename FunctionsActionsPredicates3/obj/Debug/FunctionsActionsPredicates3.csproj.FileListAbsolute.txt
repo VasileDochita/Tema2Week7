@@ -1,0 +1,6 @@
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\FunctionsActionsPredicates3\bin\Debug\FunctionsActionsPredicates3.exe.config
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\FunctionsActionsPredicates3\bin\Debug\FunctionsActionsPredicates3.exe
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\FunctionsActionsPredicates3\bin\Debug\FunctionsActionsPredicates3.pdb
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\FunctionsActionsPredicates3\obj\Debug\FunctionsActionsPredicates3.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\FunctionsActionsPredicates3\obj\Debug\FunctionsActionsPredicates3.exe
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\FunctionsActionsPredicates3\obj\Debug\FunctionsActionsPredicates3.pdb

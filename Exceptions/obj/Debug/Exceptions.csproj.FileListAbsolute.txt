@@ -1,0 +1,6 @@
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\Exceptions\obj\Debug\Exceptions.pdb

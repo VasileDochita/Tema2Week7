@@ -1,0 +1,6 @@
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Victor\Desktop\New folder\net5.week07.course-master\Week07\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
